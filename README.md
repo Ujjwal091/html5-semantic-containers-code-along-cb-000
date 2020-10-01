@@ -15,8 +15,14 @@ your personal `exception-realty` repository:
 ```
 git clone https://github.com/<your_username_here>/exceptional-realty
 cd exceptional-realty
-```
 
+
+```
+## meta taggs
+
+<meta name = "viewport" content ="width =device-width,
+initial-scale =1">
+*is used to make device responsive
 ## Instructions
 
 * Fork this repository on Github.
